@@ -38,6 +38,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
          * [Pandemic Ventilator](https://panvent.blogspot.com/)
          * See [/oxygen#communities](/oxygen#communities) for more.
       3. [Curated Claims](/claims/README.md): Rationally debate propositions with evidence and citations.
+      4. [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
    * **Earth Directory** - A directory of people and things on earth, w/ sufficient privacy for security.
       1. Masks.
       2. Santiizers.
