@@ -14,6 +14,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
    * Link to medical communities for vaccine/medical information.
      - Disclosure: we are not the medical professionals.
      - Disclosure: we see conflicting information.
+   * See [/claims](/claims).
 1. **Help people not get sick.**
    * Help people to go out less.
      1.  [Letter to Employer](https://github.com/wikirona/wikirona/blob/master/resources/work/letter_to_employer.md) - Let anyone communicate decision to stay home to employer.
@@ -26,15 +27,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
      2. Let people and communities communicate productively with local authorities.
 2. **Help sick people survive.**
    * Enable anyone to get oxygen.
-     1. oxygen concentrators.
-     2. oxygen tanks.
-     3. regulations
-     
-# Priorities for this Project
-
-1. **Website** - The repo should be able to host it self and be auditable, based on SQL.
-2. **Cenorship-proof datastore integration** - e.g. blockchain backend for messages.
-3. **Directories** - See "Directories" below
+   * See [/oxygen](/oxygen).
 
 # Directories
    * **Information Directory** - A directory of information, even of forks of this.
@@ -49,3 +42,9 @@ Our shared goal is ultimately to reduce deaths and suffering.
       3. Oxygen.
       4. Beds.
       5. Food.
+     
+# Priorities for this Project
+
+1. **Website** - The repo should be able to host it self and be auditable, based on SQL.
+2. **Censorship-proof datastore integration** - e.g. blockchain backend for messages.
+3. **Update Directories**
