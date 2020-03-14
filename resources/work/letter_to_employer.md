@@ -39,3 +39,5 @@ I would like to stay home for a few weeks and see what unfolds.
 Thank you,
 <Your naame>
 ```
+
+NOTE: Sync with [/claims](/claims).
