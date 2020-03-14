@@ -1,8 +1,15 @@
-# Disclosure
+# Claims of Severity
 
-We are not medical professionals.  We are merely compiling interesting claims, and providing proofs and counter-proofs.
+1. This virus attacks the lungs among many organs, and is much much deadlier than the flu.
+1. It is a pandemic and a significant portion (50% or more) may get infected in many countries.
+1. 20% of infected need hospitalization.
+1. Some percent(?) of the above have or will develop pneumonia.
+1. Some percent(?) of the above require oxygen ventiliation assistance.
+1. If the healthcare system gets overloaded, a non-significant portion will not get the help they need.
 
-# Claims
+# Claims of Medicine
+
+**Disclosure**: We are not medical professionals. We are merely compiling interesting claims, and providing proofs and counter-proofs. NOTHING HERE IS "SAFE", THE INFORMATION IS ONLY PROVIDED FOR EDUCATIONAL PURPOSES.
 
 1. tocilizumab is helpful and may reduce the cytokine release storm.
    * "It can only be used when things are shitty already, ie when one is on ventilator" - anon
