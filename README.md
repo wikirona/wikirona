@@ -32,7 +32,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
 1. **Website** - The repo should be able to host it self and be auditable, based on SQL.
 2. **Cenorship-proof datastore integration** - e.g. blockchain backend for messages.
 3. **Directories**
-   * Make a PR to add something here.
    * Information Directory - A directory of information, even of forks of this.
+      1. _Make a PR to add something here._
       1. Curated Claims: What is true and what is false?  Enable discussion.
    * Earth Directory - A directory of people and things on earth, w/ sufficient privacy for security.
