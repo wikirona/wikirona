@@ -1,15 +1,9 @@
 # Wikirona
 Corona Virus Response By the People For the People
 
-# Priorities
-1. Curated Claims - What is true and what is false?  Enable discussion.
-2. Website - The repo should be able to host it self and be auditable.
-3. Information Directory - A directory of information, even of forks of this.
-4. Earth Directory - A directory of people and things on earth, w/ sufficient privacy for security.
-
 # North Star
 
-Goal: Reduce deaths and suffering.
+Our shared goal is ultimately to reduce deaths and suffering.
 
 0. Help people get the truth.
    * Prove pandemic projections.
@@ -32,9 +26,12 @@ Goal: Reduce deaths and suffering.
      1. oxygen concentrators.
      2. oxygen tanks.
      3. regulations
-3. Meta
-   * Embedded web server built on SQL
-   * Cenorship-proodf datastore integration
-   * Directories
-     1. Slack group: TODO
+     
+# Priorities for this Project
 
+1. Website - The repo should be able to host it self and be auditable, based on SQL.
+2. Cenorship-proof datastore integration - e.g. blockchain backend for messages.
+3. Directories
+   * **Information Directory** - A directory of information, even of forks of this.
+      1. **Curated Claims** - What is true and what is false?  Enable discussion.
+   * **Earth Directory** - A directory of people and things on earth, w/ sufficient privacy for security.
