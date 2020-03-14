@@ -8,9 +8,20 @@ Corona Virus Response By the People For the People
 4. Earth Directory - A directory of people and things on earth, w/ sufficient privacy for security.
 
 # North Star
-0. Reduce deaths and suffering.
-1. Prove that the following priorities are well ordered, for priority 0.
-2. Enable anyone to get verifiably safe masks/sanitizer.
-3. Enable anyone to get oxygen.
-4. Enable people to get what they need via a Lightning People Network.
-5. Enable the community to find more priorities.
+Goal: Reduce deaths and suffering.
+
+1. Help people not get sick.
+   * Help people to go out less.
+     1. Let anyone communicate decision to stay home to employer.
+     2. Let anyone to prep food for home.
+     3. Enable people to get what they need via a people "Lightning Network".
+   * Let anyone to get verifiably safe masks.
+   * Let anyone to get santizers.
+   * Let communities prep food safely for themselves.
+     1. ??
+     2. Let people and communities communicate productively with local authorities.
+2. Help sick people survive.
+   * Enable anyone to get oxygen.
+     1. oxygen concentrators.
+     2. oxygen tanks.
+     3. regulations
