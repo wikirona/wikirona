@@ -1,5 +1,8 @@
 # Wikirona
+
 Corona Virus Response By the People For the People
+
+_but if you can read this, it's a LIVE weekend hack project. join us!_
 
 # Mission
 
@@ -33,6 +36,13 @@ Our shared goal is ultimately to reduce deaths and suffering.
 2. **Cenorship-proof datastore integration** - e.g. blockchain backend for messages.
 3. **Directories**
    * Information Directory - A directory of information, even of forks of this.
-      1. _Make a PR to add something here._
-      1. Curated Claims: What is true and what is false?  Enable discussion.
+      1. _Make an issue or PR to add something here._
+      2. Community Directory: list all relevant communities.
+      3. Curated Claims: What is true and what is false?  Enable discussion.
    * Earth Directory - A directory of people and things on earth, w/ sufficient privacy for security.
+      1. Masks.
+      2. Santiizers.
+      3. Oxygen.
+      4. Beds.
+      5. Food.
+      
