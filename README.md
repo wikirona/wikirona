@@ -21,13 +21,14 @@ Our shared goal is ultimately to reduce deaths and suffering.
      2. Let anyone to prep food for home.
      3. Enable people to get what they need via a people "Lightning Network".
    * Let anyone to get verifiably safe masks.
+     * See [/masks](/masks/README.md).
    * Let anyone to get santizers.
    * Let communities prep food safely for themselves.
      1. ??
      2. Let people and communities communicate productively with local authorities.
 2. **Help sick people survive.**
    * Enable anyone to get oxygen.
-   * See [/oxygen](/oxygen/README.md).
+     * See [/oxygen](/oxygen/README.md).
 
 # Directories
    * **Information Directory** - A directory of information, even of forks of this.
