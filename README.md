@@ -8,9 +8,10 @@ Corona Virus Response By the People For the People
 4. Earth Directory - A directory of people and things on earth, w/ sufficient privacy for security.
 
 # North Star
+
 Goal: Reduce deaths and suffering.
 
-0, Help people get the truth.
+0. Help people get the truth.
    * Prove pandemic projections.
    * Prove case fatality projections.
    * Link to medical communities for vaccine/medical information.
@@ -31,3 +32,9 @@ Goal: Reduce deaths and suffering.
      1. oxygen concentrators.
      2. oxygen tanks.
      3. regulations
+3. Meta
+   * Embedded web server built on SQL
+   * Cenorship-proodf datastore integration
+   * Directories
+     1. Slack group: TODO
+
