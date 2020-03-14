@@ -11,4 +11,4 @@
 * https://www.instructables.com/id/The-Pandemic-Ventilator/ \
 "The Pandemic Ventilator: Assembly instructions for a DIY Ventilator prototype.This could be useful in an Avian Flu pandemic.Constructed with commonly available components.Many of us modify, hack, re-purpose, and DIY to save money, build something unique, create art,..."
 
-* [DMD2010-3845.pdf] - Design and Prototyping of a Low-cost Portable Mechanical Ventilator
+* [DMD2010-3845.pdf](/resources/pdfs/DMD2010-3845.pdf) - Design and Prototyping of a Low-cost Portable Mechanical Ventilator
