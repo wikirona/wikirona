@@ -1,6 +1,6 @@
 ## Oxygen is needed
 
-From [/claims](/claims):
+From [/claims](/claims/README.md):
 
 * This virus attacks the lungs among many organs, and is much much deadlier than the flu.
 * It is a pandemic and a significant portion (50% or more) may get infected in many countries.
