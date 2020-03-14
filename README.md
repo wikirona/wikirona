@@ -35,7 +35,9 @@ Our shared goal is ultimately to reduce deaths and suffering.
       2. Community Directory: list all relevant communities.
          * [WikiVest](https://join.slack.com/t/wikivent/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for DIY ventilators. This Slack is not just for ventilators.\
          @Ago: _If anyoen has interesting (bio)informatic problems where you need lift, please join and post._
-      3. Curated Claims: Rationally debate propositions with evidence and citations.
+         * [Pandemic Ventilator](https://panvent.blogspot.com/)
+         * See [/oxygen#communities](/oxygen#communities) for more.
+      3. [Curated Claims](/claims/README.md): Rationally debate propositions with evidence and citations.
    * **Earth Directory** - A directory of people and things on earth, w/ sufficient privacy for security.
       1. Masks.
       2. Santiizers.
