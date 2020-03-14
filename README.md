@@ -34,12 +34,16 @@ Our shared goal is ultimately to reduce deaths and suffering.
 
 1. **Website** - The repo should be able to host it self and be auditable, based on SQL.
 2. **Cenorship-proof datastore integration** - e.g. blockchain backend for messages.
-3. **Directories**
-   * Information Directory - A directory of information, even of forks of this.
+3. **Directories** - See [[#Directories]] below
+
+# Directories
+   * **Information Directory** - A directory of information, even of forks of this.
       1. _Make an issue or PR to add something here._
       2. Community Directory: list all relevant communities.
-      3. Curated Claims: What is true and what is false?  Enable discussion.
-   * Earth Directory - A directory of people and things on earth, w/ sufficient privacy for security.
+         * [WikiVest](https://join.slack.com/t/wikivent/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for DIY ventilators. This Slack is not just for ventilators.\
+         @Ago: _If anyoen has interesting (bio)informatic problems where you need lift, please join and post._
+      3. Curated Claims: Rationally debate propositions with evidence and citations.
+   * **Earth Directory** - A directory of people and things on earth, w/ sufficient privacy for security.
       1. Masks.
       2. Santiizers.
       3. Oxygen.
