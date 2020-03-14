@@ -10,6 +10,12 @@ Corona Virus Response By the People For the People
 # North Star
 Goal: Reduce deaths and suffering.
 
+0, Help people get the truth.
+   * Prove pandemic projections.
+   * Prove case fatality projections.
+   * Link to medical communities for vaccine/medical information.
+     - Disclosure: we are not the medical professionals.
+     - Disclosure: we see conflicting information.
 1. Help people not get sick.
    * Help people to go out less.
      1. Let anyone communicate decision to stay home to employer.
