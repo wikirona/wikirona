@@ -56,4 +56,4 @@ Our shared goal is ultimately to reduce deaths and suffering.
 
 # Contributing
 
-Please contact me here via an issue or PR, or join 
+Please contact us here via an issue or PR, or join the [Virgo Discord Chat](https://discord.gg/eBdWQVZ).
