@@ -29,8 +29,8 @@ What we are hearing from Italy, South Korea, Iran, and China,
 is that what we need to do now is to stay home as much as reasonable.
 
 In China, business owners have been demanding a reduction in rent.
-And in the US student loan debts are also being temporarily forgiven,
-because it is a war-like emergency.
+And in the US, it is being proposed that student loan debts be temporarily forgiven,
+because this is a war-time-like emergency.
 
 For these reasons, for my personal safety and that of others
 (including those at work),
