@@ -37,6 +37,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
          @Ago: _If anyoen has interesting (bio)informatic problems where you need lift, please join and post._
          * [Pandemic Ventilator](https://panvent.blogspot.com/)
          * See [/oxygen#communities](/oxygen#communities) for more.
+         * [Virgo Discord Chat](https://discord.gg/eBdWQVZ) - Discord for the [Virgo Project](https://virgo.org/), "The Virgo vision is to provide the world with the best open collaboration technology." 
       3. [Curated Claims](/claims/README.md): Rationally debate propositions with evidence and citations.
       4. [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
    * **Earth Directory** - A directory of people and things on earth, w/ sufficient privacy for security.
@@ -50,4 +51,8 @@ Our shared goal is ultimately to reduce deaths and suffering.
 
 1. **Website** - The repo should be able to host it self and be auditable, based on SQL.
 2. **Censorship-proof datastore integration** - e.g. blockchain backend for messages.
-3. **Update Directories**
+3. **Update Directories** - Find the best way to present a directory of *all* COVID19 information.
+
+# Contributing
+
+Please contact me here via an issue or PR, or join 
