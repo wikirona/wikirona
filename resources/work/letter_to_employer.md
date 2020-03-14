@@ -37,5 +37,7 @@ For these reasons, for my personal safety and that of others
 I would like to stay home for a few weeks and see what unfolds.
 
 Thank you,
-<Your naame>
+<Your Name>
 ```
+
+NOTE: Sync with [/claims](/claims).
