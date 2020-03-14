@@ -1,5 +1,3 @@
-# Warnings
-
 ## Oxygen is needed
 
 * This virus attacks the lungs among many organs, and is much much deadlier than the flu.
@@ -10,6 +8,8 @@
 * If the healthcare system gets overloaded, a non-significant portion will not get the help they need.
 
 ## DIY is not safe
+
+WARNING: NOTHING HERE IS "SAFE", THE INFORMATION IS ONLY PROVIDED FOR EDUCATIONAL PURPOSES.
 
 "Honestly it would be cheaper more effective and FAR safer to use BIPAP or ASV machines. ASV machines are basically ventilators that do full servo assisted breathing for a patient anyway.
 
