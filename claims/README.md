@@ -1,4 +1,8 @@
-# Claims of Severity
+# Curated Claims
+
+TODO describe purpose
+
+## Claims of Severity
 
 1. This virus attacks the lungs among many organs, and is much much deadlier than the flu.
 1. It is a pandemic and a significant portion (50% or more) may get infected in many countries.
@@ -7,7 +11,7 @@
 1. Some percent(?) of the above require oxygen ventiliation assistance.
 1. If the healthcare system gets overloaded, a non-significant portion will not get the help they need.
 
-# Claims of Medicine
+## Claims of Medicine
 
 **Disclosure**: We are not medical professionals. We are merely compiling interesting claims, and providing proofs and counter-proofs. NOTHING HERE IS "SAFE", THE INFORMATION IS ONLY PROVIDED FOR EDUCATIONAL PURPOSES.
 
