@@ -34,7 +34,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
 
 1. **Website** - The repo should be able to host it self and be auditable, based on SQL.
 2. **Cenorship-proof datastore integration** - e.g. blockchain backend for messages.
-3. **Directories** - See [[#Directories]] below
+3. **Directories** - See "Directories" below
 
 # Directories
    * **Information Directory** - A directory of information, even of forks of this.
@@ -49,4 +49,3 @@ Our shared goal is ultimately to reduce deaths and suffering.
       3. Oxygen.
       4. Beds.
       5. Food.
-      
