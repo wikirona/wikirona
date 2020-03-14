@@ -14,7 +14,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
    * Link to medical communities for vaccine/medical information.
      - Disclosure: we are not the medical professionals.
      - Disclosure: we see conflicting information.
-   * See [/claims](/claims).
+   * See [/claims](/claims/README.md).
 1. **Help people not get sick.**
    * Help people to go out less.
      1.  [Letter to Employer](https://github.com/wikirona/wikirona/blob/master/resources/work/letter_to_employer.md) - Let anyone communicate decision to stay home to employer.
@@ -27,7 +27,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
      2. Let people and communities communicate productively with local authorities.
 2. **Help sick people survive.**
    * Enable anyone to get oxygen.
-   * See [/oxygen](/oxygen).
+   * See [/oxygen](/oxygen/README.md).
 
 # Directories
    * **Information Directory** - A directory of information, even of forks of this.
