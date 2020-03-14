@@ -17,5 +17,25 @@ The following example letter is just an example of what you could tell your mana
 ```text
 Hello <Name of Manager> and <Name of HR head>,
 
-TODO
+The WHO is now calling this COVID19 epidemic a pandemic,
+and I believe that it means it's probably going to infect most of the world.
+
+And unlike what some authorities have said,
+Italy shows that the case fatality rate can be higher than expected,
+and just as importantly, that hospital resources are running out,
+and that we should expect the same here.
+
+What we are hearing from Italy, South Korea, Iran, and China,
+is that what we need to do now is to stay home as much as reasonable.
+
+In China, business owners have been demanding a reduction in rent.
+And in the US student loan debts are also being temporarily forgiven,
+because it is a war-like emergency.
+
+For these reasons, for my personal safety and that of others
+(including those at work),
+I would like to stay home for a few weeks and see what unfolds.
+
+Thank you,
+<Your naame>
 ```
