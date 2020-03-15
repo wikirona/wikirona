@@ -4,7 +4,7 @@ WARNING: Beware of phishing schemes!
 
 # How to donate
 
-Bitcoin Address: TODO
+Bitcoin Address: TODO\
 Cosmos Address: TODO
 
 # Contact
