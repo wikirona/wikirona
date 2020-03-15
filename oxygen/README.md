@@ -26,8 +26,7 @@ A home built machine is ill advised." - _@cjunky from https://www.instructables.
 
 # Communities
 
- * [WikiVest](https://join.slack.com/t/wikivent/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for DIY ventilators. This Slack is not just for ventilators.\
-         @Ago: _If anyoen has interesting (bio)informatic problems where you need lift, please join and post._
+ * [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for Wikirona, this project.
  * [Pandemic Ventilator](https://panvent.blogspot.com/)
 
 # Useful Links

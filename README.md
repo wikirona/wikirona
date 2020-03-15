@@ -1,6 +1,22 @@
 # Wikirona
 
-Corona Virus Response By the People For the People
+COVID19 Repository,\
+by the People for the People.\
+[Join us now, why wait longer?](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ).
+
+This repository is meant to host things like:
+
+ * extra-ordinary claims with extra-ordinary proofs about COVID19
+   - extent of local epidemics
+   - prognosis and (case) fatality rate
+   - mitigation
+   - and more
+ * (bio)informatic problems
+ * (DIY?) masks
+ * (DIY?) ventilators
+ * education material
+ * preparation ideas
+ * protocols and proposals
 
 _but if you can read this, it's a LIVE weekend hack project. join us!_
 
@@ -34,8 +50,7 @@ Our shared goal is ultimately to reduce deaths and suffering.
    * **Information Directory** - A directory of information, even of forks of this.
       1. _Make an issue or PR to add something here._
       2. Community Directory: list all relevant communities.
-         * [WikiVest](https://join.slack.com/t/wikivent/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for DIY ventilators. This Slack is not just for ventilators.\
-         @Ago: _If anyoen has interesting (bio)informatic problems where you need lift, please join and post._
+         * [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for Wikirona, this project.
          * [Pandemic Ventilator](https://panvent.blogspot.com/)
          * See [/oxygen#communities](/oxygen#communities) for more.
          * [Virgo Discord Chat](https://discord.gg/eBdWQVZ) - Discord for the [Virgo Project](https://virgo.org/), "The Virgo vision is to provide the world with the best open collaboration technology." 
