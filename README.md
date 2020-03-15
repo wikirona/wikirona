@@ -78,7 +78,7 @@ See [/opportunities](/opportunities/README.md) to help us populate this director
 * See [/oxygen#communities](/oxygen#communities) for more.
 * [Virgo Discord Chat](https://discord.gg/eBdWQVZ) - Discord for the [Virgo Project](https://virgo.org/), "The Virgo vision is to provide the world with the best open collaboration technology." 
 * [Curated Claims](/claims/README.md): Rationally debate propositions with evidence and citations.
-* [Work & Opportunities](/opportunities)[/opportunities/README.md]: Find out how you can help, whereever you are.
+* [Work & Opportunities](/opportunities/README.md): Find out how you can help, whereever you are.
 
 ## Other Resources
 * [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
