@@ -47,21 +47,30 @@ Our shared goal is ultimately to reduce deaths and suffering.
      * See [/oxygen](/oxygen/README.md).
 
 # Directories
-   * **Information Directory** - A directory of information, even of forks of this.
-      1. _Make an issue or PR to add something here._
-      2. Community Directory: list all relevant communities.
-         * [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for Wikirona, this project.
-         * [Pandemic Ventilator](https://panvent.blogspot.com/)
-         * See [/oxygen#communities](/oxygen#communities) for more.
-         * [Virgo Discord Chat](https://discord.gg/eBdWQVZ) - Discord for the [Virgo Project](https://virgo.org/), "The Virgo vision is to provide the world with the best open collaboration technology." 
-      3. [Curated Claims](/claims/README.md): Rationally debate propositions with evidence and citations.
-      4. [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
-   * **Earth Directory** - A directory of people and things on earth, w/ sufficient privacy for security.
-      1. Masks.
-      2. Santiizers.
-      3. Oxygen.
-      4. Beds.
-      5. Food.
+
+_Make an issue or PR to add something here._
+
+## Virtual Communities
+
+* [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for Wikirona, this project.
+* [Pandemic Ventilator](https://panvent.blogspot.com/)
+* See [/oxygen#communities](/oxygen#communities) for more.
+* [Virgo Discord Chat](https://discord.gg/eBdWQVZ) - Discord for the [Virgo Project](https://virgo.org/), "The Virgo vision is to provide the world with the best open collaboration technology." 
+* [Curated Claims](/claims/README.md): Rationally debate propositions with evidence and citations.
+* [Work & Opportunities](/opportunities)[/opportunities/README.md]: Find out how you can help, whereever you are.
+
+## Other Resources
+* [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
+
+## TODO
+
+We need to find more communities for:
+
+1. producing Masks.
+2. producing Santiizers.
+3. discussions around Oxygen.
+4. for allocating Beds.
+5. for providing Food and Basic Necessities.
      
 # Priorities for this Project
 
