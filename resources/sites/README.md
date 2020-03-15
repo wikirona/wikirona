@@ -1,1 +1,2 @@
 * [https://news.ycombinator.com/item?id=22453100](./hackernews_22453100.pdf) - Open-source “pandemic ventilator” discussion on HackerNews.
+* [COVID-19 Global Cases Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Visualization of Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. 
