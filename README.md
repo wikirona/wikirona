@@ -18,7 +18,7 @@ This repository is meant to host things like:
  * preparation ideas
  * protocols and proposals
 
-_but if you can read this, it's a LIVE weekend hack project. join us!_
+_To save the most lives, we should see that this message spreads faster than the disease._
 
 # Mission
 
