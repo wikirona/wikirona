@@ -50,6 +50,27 @@ Our shared goal is ultimately to reduce deaths and suffering.
 
 _Make an issue or PR to add something here._
 
+## Associated Doctors, Hospitals, and Practitioners
+
+We need your help!\
+See [/opportunities](/opportunities/README.md) to help us populate this directory.
+
+* Africa _TODO_
+* America
+  * United States
+    * California _TODO_
+    * Orgeon _TODO_
+    * New York _TODO_
+* Asia
+    * China _TODO_
+    * Singapore _TODO_
+    * South Korea _TODO_
+* Europe
+    * Germany _TODO_
+    * France _TODO_
+    * Italy _TODO_
+    * UK _TODO_
+
 ## Virtual Communities
 
 * [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for Wikirona, this project.
