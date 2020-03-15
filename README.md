@@ -101,4 +101,8 @@ We need to find more communities for:
 
 # Contributing
 
-Please contact us here via an issue or PR, or join the [Virgo Discord Chat](https://discord.gg/eBdWQVZ).
+Please contact us here via an issue or PR, or join the [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) (ask for @paolo, @ago or @jaekwon), or if you prefer Discourse, the [Virgo Discord Chat](https://discord.gg/eBdWQVZ) (ask for @jaekwon or @alessio).
+
+For donation information, see [/donate](/donate/README.md).  _Beware of phishers._
+
+
