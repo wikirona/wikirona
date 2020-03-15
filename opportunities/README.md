@@ -5,6 +5,8 @@ Due to limited capacity, not everyone can (yet) be paid, but please contact us a
 
 ## Doctor, Hospital, and Practitioner Relations Management
 
+If you can read this, your help is wanted!
+
 Role Description:
 
 * Call local doctors, hospitals, and practitioners and understand where they are at.
@@ -28,6 +30,11 @@ Compensation: $12.00/hour (or less, whatever you need), and recognition.
 Is an obvious role is not available, please tell us about it.
 
 Compensation: $12.00/hour (or less, whatever you need), and recognition.
+
+# Donations
+
+We accept and depend on grants and donations.\
+See [/donate](/donate/README.md) for more information.
 
 # Contact
 
