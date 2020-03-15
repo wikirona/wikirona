@@ -1,5 +1,7 @@
 We depend on donations for paying for job opportunities and paying for servers, ads, etc.
 
+WARNING: Beware of phishing schemes!
+
 # How to donate
 
 Bitcoin Address: TODO
