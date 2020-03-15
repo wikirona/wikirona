@@ -3,9 +3,7 @@
 We can provide payment to anyone who meets basic requirements, and performs the work needed.\
 Due to limited capacity, not everyone can (yet) be paid, but please contact us anyways.
 
-## Opportunities
-
-### Doctor, Hospital, and Practitioner Relations Management
+## Doctor, Hospital, and Practitioner Relations Management
 
 Role Description:
 
@@ -24,12 +22,13 @@ Languages: English, Italian, Korean
 
 Compensation: $12.00/hour (or less, whatever you need), and recognition.
 
-### Other Opportunities, Questions, and Comments
+
+## Other Opportunities, Questions, and Comments
 
 Is an obvious role is not available, please tell us about it.
 
 Compensation: $12.00/hour (or less, whatever you need), and recognition.
 
-## Contact
+# Contact
 
 Make an Issue/PR here, join our [Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ), or email jae+wikirona@tendermint.com.
