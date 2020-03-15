@@ -44,4 +44,4 @@ NOTE: Sync with [/claims](/claims).
 
 ## Comments
 
-_From Tendermint HR:_ "While there isn't really a "template" for this type of notification that I am aware of, I believe the important factors here are that this action is being taken as a matter of personal safety and well-being and that of family members and co-workers. I can see a scenario where there might be employer push-back in the case where duties simply cannot be carried out at home, however, leave allowances should still be granted and/or extended to anyone feeling particularly impacted or exhibiting symptoms"
+_From allinbits HR:_ "While there isn't really a "template" for this type of notification that I am aware of, I believe the important factors here are that this action is being taken as a matter of personal safety and well-being and that of family members and co-workers. I can see a scenario where there might be employer push-back in the case where duties simply cannot be carried out at home, however, leave allowances should still be granted and/or extended to anyone feeling particularly impacted or exhibiting symptoms"
