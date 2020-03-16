@@ -16,6 +16,9 @@ TODO describe purpose
 1. Pre-symptomatic spread is significant
    * https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1
 
+1. Lockdowns:
+   * NYC & LA: https://www.zerohedge.com/geopolitical/wal-mart-stop-shop-cut-hours-oregon-reports-1st-death-covid-19-live-updates
+
 ## Claims of Reinfection
 
 TODO
@@ -24,13 +27,26 @@ TODO
 
 **Disclosure**: We are not medical professionals. We are merely compiling interesting claims, and providing proofs and counter-proofs. NOTHING HERE IS "SAFE", THE INFORMATION IS ONLY PROVIDED FOR EDUCATIONAL PURPOSES.
 
-1. tocilizumab is helpful and may reduce the cytokine release storm.
+1. Anti-inflammatories may aggravate Covid-19.
+   * https://www.theguardian.com/world/2020/mar/14/anti-inflammatory-drugs-may-aggravate-coronavirus-infection
+
+1. [A vaccine isn't coming](/claims/reinfection/README.md)
+
+1. `tocilizumab` is helpful and may reduce the cytokine release storm.
    * "It can only be used when things are shitty already, ie when one is on ventilator" - anon
    * See: http://www.ansa.it/english/news/science_tecnology/2020/03/11/coronavirusarthritis-drug-seems-to-work_8113f9d9-9bb8-4181-9c02-3e314c30e7e9.html
    * "A commonly used arthritis drug has shown "excellent results" in two coronavirus patients and a national protocol for its extensive use against the virus should be drawn up, oncologist Paolo Ascierto of Naples' Pascale Hospital said Wednesday. © ANSA"
    * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Understanding SARS-CoV-2 and the drugs that might lessen its power
 
-1. Anti-inflammatories may aggravate Covid-19.
-   * https://www.theguardian.com/world/2020/mar/14/anti-inflammatory-drugs-may-aggravate-coronavirus-infection
 
-1. [A vaccine isn't coming](/claims/reinfection/README.md)
+## Claims of Economy
+
+1. The FED and government's actions will result in a bailout of the already rich and powerful, to hoard rapidly dwindling resources.
+   * https://mises.org/library/money-inflation-and-business-cycles-cantillon-effect-and-economy
+   * [Fed Panics: Powell Cuts Rates To Zero, Announces $700BN QE5, Unveils Enhanced Global Swap Lines](https://www.zerohedge.com/markets/fed-panics-powell-cuts-rates-zero-announces-700bn-qe5-unveils-enhanced-global-swap-lines) ([backup](/resources/sites/zerohedge_2020_03_15_fed_panics.pdf))
+
+
+## Claims of Politics
+
+1. China is "disappearing" inconvenient truths.
+   * https://www.zerohedge.com/geopolitical/chinese-tycoon-mysteriously-disappears-after-criticizing-xis-virus-response
