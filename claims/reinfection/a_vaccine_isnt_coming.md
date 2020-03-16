@@ -2,7 +2,7 @@ Source 1: https://www.reddit.com/r/Covid2019/comments/fah93r/a_vaccine_isnt_comi
 Source 2: https://www.reddit.com/r/cvnews/comments/fj89ze/opinion_a_vaccine_for_sarscov2covid19_isnt_coming/
 Title: [Opinion] "A Vaccine for SARScov2/Covid-19 isnt coming"
 
-```
+<blockquote>
 I don't mean soon. I mean ever.
 
 I'm going to try to ELI5 (explain it like I'm 5), and there's supporting documents at the bottom if you want to check my math. To be clear, I'm not antivax, and I'll happily eat these words if I'm ever proven wrong.
@@ -74,5 +74,5 @@ Bottom line: don't get infected. If you do, you REALLY don't want to get reinfec
 Full disclosure: I work in an antiviral laboratory, and I have a lot more hope for remdesivir, Kaletra (lopinavir/ritonavir) and chloroquine.
 
 Edit: a word
-```
-- /u/escargotisntfastfood/
+</blockquote>
+_- /u/escargotisntfastfood/_
