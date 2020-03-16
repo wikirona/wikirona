@@ -34,16 +34,16 @@ Our shared goal is ultimately to reduce deaths and suffering.
 1. **Help people not get sick.**
    * Help people to go out less.
      1.  [Letter to Employer](https://github.com/wikirona/wikirona/blob/master/resources/work/letter_to_employer.md) - Let anyone communicate decision to stay home to employer.
-     2. Let anyone to prep food for home.
+     2. Let anyone prep and get food and supplies.
      3. Enable people to get what they need via a people "Lightning Network".
-   * Let anyone to get verifiably safe masks.
+   * Let anyone get verifiably safe masks.
      * See [/masks](/masks/README.md).
-   * Let anyone to get santizers.
+   * Let anyone get santizers.
    * Let communities prep food safely for themselves.
      1. ??
      2. Let people and communities communicate productively with local authorities.
 2. **Help sick people survive.**
-   * Enable anyone to get oxygen.
+   * Enable anyone get oxygen.
      * See [/oxygen](/oxygen/README.md).
 
 # Directories
