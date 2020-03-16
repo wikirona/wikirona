@@ -13,6 +13,7 @@ This repository is meant to host things like:
    - and more
  * (bio)informatic problems
  * (DIY?) masks
+ * (DIY?) tests
  * (DIY?) ventilators
  * education material
  * preparation ideas
@@ -42,6 +43,8 @@ Our shared goal is ultimately to reduce deaths and suffering.
    * Let communities prep food safely for themselves.
      1. ??
      2. Let people and communities communicate productively with local authorities.
+2. **Help produce and deploy tests.**
+   * See [/tests](/tests/README.md).
 2. **Help sick people survive.**
    * Enable anyone get oxygen.
      * See [/oxygen](/oxygen/README.md).
