@@ -50,3 +50,8 @@ TODO
 
 1. China is "disappearing" inconvenient truths.
    * https://www.zerohedge.com/geopolitical/chinese-tycoon-mysteriously-disappears-after-criticizing-xis-virus-response
+
+1. The issue of gun/resource confiscation will accelerate mistrust in authority and a division of the US into two distinct unions.
+   * http://documents.ci.champaign.il.us/v/1xcdmv-59ceVrRKkf2OAFyX4DjraEqrFF ([backup](/resources/pdfs/champaign_ordinance.pdf))
+      - "Order the discontinuance of selling, distributing, dispensing or giving away of explosives or explosive agents, firearms or ammunition of any character whatsoever;"
+      - "Control, restrict, allocate, or regulate the use, sale, production, or distribution of food, water, fuel, clothing, and/or other commodities, materials, goods, services and resources."
