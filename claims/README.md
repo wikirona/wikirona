@@ -11,7 +11,7 @@ TODO describe purpose
 1. Some percent(?) of the above require oxygen ventiliation assistance.
 1. If the healthcare system gets overloaded, a non-significant portion will not get the help they need.
 
-## Claims of Spred
+## Claims of Spread
 
 1. Pre-symptomatic spread is significant
    * https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1
