@@ -104,11 +104,12 @@ See [/opportunities](/opportunities/README.md) to help us populate this director
 
 We need to find more communities for:
 
+1. producing (and deploying) Sanitizers.
 1. producing Masks.
-2. producing Santiizers.
-3. discussions around Oxygen.
-4. for allocating Beds.
-5. for providing Food and Basic Necessities.
+1. producing Tests.
+1. providing Oxygen.
+1. allocating Beds.
+1. allocating Food and Basic Necessities.
      
 # Priorities for this Project
 
