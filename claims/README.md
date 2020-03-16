@@ -11,6 +11,10 @@ TODO describe purpose
 1. Some percent(?) of the above require oxygen ventiliation assistance.
 1. If the healthcare system gets overloaded, a non-significant portion will not get the help they need.
 
+## Claims of Reinfection
+
+1. [A vaccine isn't coming](claims/reinfection/README.md)
+
 ## Claims of Medicine
 
 **Disclosure**: We are not medical professionals. We are merely compiling interesting claims, and providing proofs and counter-proofs. NOTHING HERE IS "SAFE", THE INFORMATION IS ONLY PROVIDED FOR EDUCATIONAL PURPOSES.
