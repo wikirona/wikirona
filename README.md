@@ -81,6 +81,8 @@ See [/opportunities](/opportunities/README.md) to help us populate this director
 * [Work & Opportunities](/opportunities/README.md): Find out how you can help, whereever you are.
 
 ## Other Resources
+
+* [COVID-19 Global Cases Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Visualization of Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. 
 * [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
 
 ## TODO
