@@ -38,6 +38,8 @@ TODO
    * "A commonly used arthritis drug has shown "excellent results" in two coronavirus patients and a national protocol for its extensive use against the virus should be drawn up, oncologist Paolo Ascierto of Naples' Pascale Hospital said Wednesday. © ANSA"
    * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Understanding SARS-CoV-2 and the drugs that might lessen its power
 
+1. [Open air treatment may be preferred](https://medium.com/@ra.hobday/coronavirus-and-the-sun-a-lesson-from-the-1918-influenza-pandemic-509151dc8065)
+
 
 ## Claims of Economy
 
