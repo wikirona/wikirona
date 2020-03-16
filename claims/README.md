@@ -1,6 +1,7 @@
 # Curated Claims
 
-TODO describe purpose
+These claims are still being disputed. \
+The purpose of this document is to categorize active claims, and to aggregate evidence and counter-evidence in a timely way.
 
 ## Claims of Severity
 
@@ -21,7 +22,7 @@ TODO describe purpose
 
 ## Claims of Reinfection
 
-TODO
+1. [A vaccine isn't coming](/covid19/reinfection/a_vaccine_isnt_coming.md).
 
 ## Claims of Medicine
 
@@ -30,7 +31,7 @@ TODO
 1. Anti-inflammatories may aggravate Covid-19.
    * https://www.theguardian.com/world/2020/mar/14/anti-inflammatory-drugs-may-aggravate-coronavirus-infection
 
-1. [A vaccine isn't coming](/claims/reinfection/README.md)
+1. [A vaccine isn't coming](/covid19/reinfection/a_vaccine_isnt_coming.md).
 
 1. `tocilizumab` is helpful and may reduce the cytokine release storm.
    * "It can only be used when things are shitty already, ie when one is on ventilator" - anon
