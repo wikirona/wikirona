@@ -98,7 +98,7 @@ See [/opportunities](/opportunities/README.md) to help us populate this director
 * [COVID-19 Global Cases Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Visualization of Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. 
 * [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
 * [ZeroHedge](https://zerohedge.com) - Financial news curator; Been waiting for the collapse since 2007.
-* [OurPrep Survivor Library](https://www.ourpreps.com/downloads/survivor-library-part-1-march-2020-torrent/) - 50GB of Books (BitTorrent)
+* [Survivor Library Torrent](https://www.ourpreps.com/downloads/survivor-library-part-1-march-2020-torrent/) - 50GB of Books (BitTorrent) compiled by OurPrep from [http://www.survivorlibrary.com/](http://www.survivorlibrary.com/).
 
 ## TODO
 
