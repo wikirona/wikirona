@@ -1,7 +1,7 @@
-# Wikirona
+# Intro
 
-COVID19 Repository,\
-by the People for the People.\
+Wikirona Repository (COVID19)\
+by People, for People.\
 [Join us now, why wait longer?](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ).
 
 This repository is meant to host things like:
