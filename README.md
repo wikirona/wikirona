@@ -73,17 +73,27 @@ See [/opportunities](/opportunities/README.md) to help us populate this director
 
 ## Virtual Communities
 
-* [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ) - A slack for Wikirona, this project.
+* Wikirona
+   - [Wikirona Slack](https://join.slack.com/t/wikirona/shared_invite/zt-creubqis-YN31P7ioJb7PEZ0rOs8MhQ)
+   - [Wikirona Work & Opportunities](/opportunities/README.md) - Find out how you can help, whereever you are.
+   - [Wikirona Curated Claims](/claims/README.md) - Rationally debate propositions with evidence and citations.
+* [Virgo Project](https://virgo.org/)
+   - "The Virgo vision is to provide the world with the best open collaboration technology." 
+   - [Virgo Discord Chat](https://discord.gg/eBdWQVZ)
 * [Pandemic Ventilator](https://panvent.blogspot.com/)
-* See [/oxygen#communities](/oxygen#communities) for more.
-* [Virgo Discord Chat](https://discord.gg/eBdWQVZ) - Discord for the [Virgo Project](https://virgo.org/), "The Virgo vision is to provide the world with the best open collaboration technology." 
-* [Curated Claims](/claims/README.md): Rationally debate propositions with evidence and citations.
-* [Work & Opportunities](/opportunities/README.md): Find out how you can help, whereever you are.
+   - See [/oxygen#communities](/oxygen#communities) for more.
+* Reddit
+  - [/r/cvnews](https://reddit.com/r/cvnews)
+  - [/r/coronavirus](https://reddit.com/r/cvnews)
+  - [/r/collapse](https://reddit.com/r/collapse)
+* Discord
+  - [Coronavirus Discord](https://discord.gg/HmTv8v) _If the invite link is expired, contact @jaekwon on Virgo_
 
 ## Other Resources
 
 * [COVID-19 Global Cases Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Visualization of Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. 
 * [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
+* [ZeroHedge](https://zerohedge.com) - Financial news curator; Been waiting for the collapse since 2007.
 
 ## TODO
 
