@@ -48,6 +48,18 @@ Our shared goal is ultimately to reduce deaths and suffering.
 2. **Help sick people survive.**
    * Enable anyone get oxygen.
      * See [/oxygen](/oxygen/README.md).
+3. **Help antiviral/vaccine research**
+   * Tools to improve international collaborations of clinical trials
+     * See [/trials](/trials/README.md).
+   * Crowdsourcing of relevant bionformatic problems.
+     * See [/bioinformatics](/bioinformatics/README.md).
+4. **Help techincal knowledge sharing**
+   * Incentivize governments and corporations to openly distribute relevant technical documents.
+     * Organize petitions and open letters.
+   * Create a repository for shared technical documents.  
+5. **Help enforcement of isolation policies**
+   * Isolation and mobility restrictions are currently one of the most effective repsonses. People need to be authorized in order to perform necessary activities and checks need to put in place to verify that people comply with authorized activities. 
+    * See [/isolation](/isolation/README.md)
 
 # Directories
 
