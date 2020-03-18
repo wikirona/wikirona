@@ -111,6 +111,7 @@ See [/opportunities](/opportunities/README.md) to help us populate this director
 * [ResilienceMaps](http://resiliencemaps.org/): "ResilienceMaps has a good set of mapping and modeling systems for the life-saving resources which you want to track and move around.  SYSML could be used to figure out what is needed, where" - @leashless Vinay Gupta
 * [ZeroHedge](https://zerohedge.com) - Financial news curator; Been waiting for the collapse since 2007.
 * [Survivor Library Torrent](https://www.ourpreps.com/downloads/survivor-library-part-1-march-2020-torrent/) - 50GB of Books (BitTorrent) compiled by OurPrep from [http://www.survivorlibrary.com/](http://www.survivorlibrary.com/).
+* [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/).
 
 ## TODO
 
