@@ -10,7 +10,7 @@ A blockchain stack could improve co-operation at international level and across 
 
 ## Backend Data Schema
 
-* From for testing site
+* From for testing institution details
 * Form for patient characteristics
 * Form for daily evolution 
 * Form for therapy and daily does
