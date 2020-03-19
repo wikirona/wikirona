@@ -2,9 +2,11 @@
 
 At the moment each country/institution is performing clinical trials independently, sharing the results at the end of the trials. This is a relatively slow and inefficient process. 
 
-Results are reinforced by serially replicating the trials elsewhere with a subsequent trial. 
+Results are reinforced by serially replicating the trials elsewhere. 
 
-Clinical trials can be difficult in Covid-19 since most patient recover spontaneously regardless of cure. The chance of false positives is high, particularly for antivirals that could help in earlier stages. This requires larger tests that can be more easily achieved via co-ordination. In addition several different medicaments have to be tested in parallel, if each one is performed vs a control set, this creates futher inefficiencies. 
+Clinical trials can be particularly difficult in Covid-19 cases since most patient recover spontaneously regardless of cure. The chance of false positives is high, particularly for antivirals that could help in earlier stages. This requires larger tests that can be more easily achieved via co-ordination.
+
+In addition several different medicaments have to be tested in parallel, if each one is performed vs a control set, this creates futher inefficiencies. 
 
 A blockchain stack could improve co-operation at international level and across institutions thus speeding up aggregation of results and improving reliability.
 
