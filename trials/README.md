@@ -30,9 +30,8 @@ As a consideration inputing should be as fast as possible, with as little typing
 * Pre-existing conditions [checks]
 * Pre-existing medications
 * Allergies
-* CovidSymptoms start
-* CovidSymptons when hospitalized
-* Non-Covid Symptoms when hospitalized
+* CovidSymptoms StartDate
+* Hospitzlization Date
 
 ### Form for daily evolution 
 * DateTime / Temperature
