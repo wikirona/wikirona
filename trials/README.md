@@ -12,27 +12,67 @@ A blockchain stack could improve co-operation at international level and across 
 
 # Implementation
 
-## Backend Data Schema
 
-* From for testing institution details
-* Form for patient characteristics
-* Form for daily evolution 
-* Form for therapy and daily does
+## Input forms (prelimminary)
+
+As a consideration inputing should be as fast as possible, with as little typing as possible, work well on mobile/tablet/desktop. Ideally android/ios/browser.
+
+### Form for testing institution details
+* Institution Name
+* Address
+* Person(s) Responsible
+
+### Form for patient characteristics
+* SiteSpecific Patient-ID (anonymous)
+* Sex
+* DoB
+* Etnicity
+* Pre-existing conditions [checks]
+* Pre-existing medications
+* Allergies
+* CovidSymptoms start
+* CovidSymptons when hospitalized
+* Non-Covid Symptoms when hospitalized
+
+### Form for daily evolution 
+* DateTime / Temperature
+* DateTime / Oxygen level
+* DateTime / BP
+* DateTime / ?
+* Covid19 Tests: DateTime / test-type / result
+* Covid19 Staging: DateTime / Staging
+* Covid19 Symptoms: DateTiem / Symptom
+* Covid19 Imaging: DateTime / Lung Imaging Staging
+* Non-Covid19 Symptoms: DateTime / Symptom
+* MedicalTreatement: DateTime / Treatment / dose
+* Non-MedicalTreatement: DateTime / Treatment
 
 ## Editor Application
-
 * API + Web + Mobile App
 * Authentication/Authorization for write access, possibly per site
 * Entry forms
 
 ## Data Browser and Analytics
-
 * API + Web
 * Authentication/Authorization for read access, possibly per site
 * Filter functionality:
 	* Extract all individual datasets
 	* Aggregation functionality:
 		* Aggregate across relevant metrics
+
+## Authorization (preliminary)
+
+### Write Side
+
+* Main responsible person per each site can assign editors/readers and edit site form
+* Editors can fill patient forms
+
+## Read Side
+
+* All editors can access all records of their own site
+* WHO can permission each site to see each other data
+* WHO can permission other institutions to access data
+
 
 # Related News
 
