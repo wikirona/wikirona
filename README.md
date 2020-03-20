@@ -102,6 +102,7 @@ See [/opportunities](/opportunities/README.md) to help us populate this director
   - [/r/cvnews](https://reddit.com/r/cvnews)
   - [/r/coronavirus](https://reddit.com/r/cvnews)
   - [/r/collapse](https://reddit.com/r/collapse)
+  - [/r/covid19] (https://www.reddit.com/r/COVID19) 
 * Discord
   - [Coronavirus Discord](https://discord.gg/HmTv8v) _If the invite link is expired, contact @jaekwon on Virgo_
 
