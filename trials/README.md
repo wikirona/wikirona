@@ -72,11 +72,17 @@ As a consideration inputing should be as fast as possible, with as little typing
 * Main responsible person per each site can assign editors/readers and edit site form
 * Editors can fill patient forms
 
-## Read Side
+### Read Side
 
 * All editors can access all records of their own site
 * WHO can permission each site to see each other data
 * WHO can permission other institutions to access data
+
+## Patient Consent Workflow
+
+Even though it is likely that patient data is anonymized, it is possible that some workflow could be needed to manage and store consent. Possibly at site level.
+
+See https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5676196.5/
 
 # Resources
 
