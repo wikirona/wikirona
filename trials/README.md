@@ -16,12 +16,12 @@ A user friendly UI can also help overburdened personnel do the data entry faster
 
 * [WHO announces they want to co-ordinate trials on Covid-19](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---18-march-2020).
 
-# Implementation
+# Proof of Concept
 
-
-## Input forms (prelimminary)
-
-As a consideration inputing should be as fast as possible, with as little typing as possible, work well on mobile/tablet/desktop. Ideally Android/iOS/browser.
+## Editor Application
+* API + Website + Mobile App
+* Authentication/Authorization for write access, possibly per site
+* As a consideration inputing should be as fast as possible, with as little typing as possible, work well on mobile/tablet/desktop. Ideally Android/iOS/browser.
 
 ### Form for testing institution details
 * Institution Name
@@ -51,21 +51,50 @@ As a consideration inputing should be as fast as possible, with as little typing
 * MedicalTreatement: DateTime / Treatment / dose
 * Non-MedicalTreatement: DateTime / Treatment (EG oxygen/ventilation/...)
 
-## Editor Application
-* API + Web + Mobile App
-* Authentication/Authorization for write access, possibly per site
-* Entry forms
-
 ## Data Browser and Analytics
-* API + Web
-* Authentication/Authorization for read access, possibly per site
-* Filter functionality:
-	* Extract all individual records
-	* Aggregation functionality:
-		* Aggregate across relevant metrics via dashboards
-		* Extract aggregated data
+* API + Website
 
-## Authorization (preliminary)
+### Access to detailed patient records.
+* Filter on patient characteristics
+* Records are anonymized  
+* Web-based visualization of records + download
+
+### Cube Browser
+* Summary stats and charts given filters for various characteristics / desired measures/scores.
+* Typical cube-browser style.
+   
+### Analytics to Identify Optimal Therapy
+
+#### Scoring
+* Scoring components:
+  * Fatality rate
+  * Rate of non-fatal severe complications
+  * Delay in moving to worse pathology stages
+  * Delay in moving to better pathology stages
+  * Full recovery time
+  * Penalisation for side effects (needs some weights for non-covid19 symptoms)
+* Weighting of above to compute overall score TBC
+* The above scores should be computed for buckets of "similar" patient characteristics/staging as well as for the overall score. Definition of similarity TBC.
+
+#### Pairwise Therapy Stats:
+* Traditional pairwise statistical test results (student's T & co): null hypothesis = therapy A > therapy B.
+* Stats for Therapy A/B/Diff. 
+* Stats for overal score with socre subcomponents
+* Stats for each population bucket and aggregate.
+* Stats: mean, median, stdev, max, min, t-student (for diff) ...
+
+#### Groupwise Comparison
+Comparison of n therapies/controls-set with n>2
+Use appropriate (matrix/heatmap?) visualization TBC
+
+#### Overall Analysis
+Random forest / gradient boosting Vs therapy / patient characteristics / pathology staging
+Visualization of results
+
+#### Patient-Specific Optimal Therapy
+Like above but limited to "similar" patients given filter on characteristics/staging for the selected subset of therapies.
+
+## Authorizations (preliminary)
 
 ### Write Side
 
