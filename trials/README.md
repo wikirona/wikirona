@@ -94,24 +94,34 @@ Visualization of results
 #### Patient-Specific Optimal Therapy
 Like above but limited to "similar" patients given filter on characteristics/staging for the selected subset of therapies.
 
-## Authorizations (preliminary)
+# Authorizations (preliminary)
 
-### Write Side
+## Write Side
 
 * Main responsible person per each site can assign editors/readers and edit site form
 * Editors can fill patient forms
 
-### Read Side
+## Read Side
 
 * All editors can access all records of their own site
 * WHO can permission each site to see each other data
 * WHO can permission other institutions to access data
 
+# Anonymization
+
+Data should be anonymous. The association of the patient ID to the patient should be kept at site level only.
+
+E.G. we could generate a derived Patient ID using the real patient name/ID and use the signature of that, performed with the site private key, as derived patient ID associated with the stored medical records.
+
+Incidentally we could include a QR/Bar/Text reader to obtain the real patient name/ID.
+
 ## Patient Consent Workflow
 
-Even though it is likely that patient data is anonymized, it is possible that workflows could be needed to manage and store consent. Possibly at site level.
+Even though it is likely that patient data is anonymized, it is possible that workflows could be needed to manage and store consent. Possibly also at site level. This would be a separate extension.
 
 See https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5676196.5/
+
+##
 
 # Logical Architecture
 (this section is a stub)
