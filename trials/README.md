@@ -78,6 +78,58 @@ As a consideration inputing should be as fast as possible, with as little typing
 * WHO can permission each site to see each other data
 * WHO can permission other institutions to access data
 
+# Logical Architecture
+(this section is a stub)
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Clinical_Trial_blockchain_logical_Architecture.png/800px-Clinical_Trial_blockchain_logical_Architecture.png)
+
+## Institution / Site
+It is the hospital, Cro, organisation in general, conducting the Clinical Trial
+## WHO Competent Authority
+it is the reference organisation on WHO side, gathering information from all the local Institutions / Sites
+## Users
+### Ctrial Adm
+it's the personnel in charge of setting up the Clinical Trial, in conformance to the essential Ctrial Documents 
+### Ctrial Ops
+It's the presonnel in charge of updating Ctrial info, possibly on daily basis. info includes Patient data, and disease daily evolution parameters
+## Web App
+it's the standard web application allowing users to creat and edit Ctrial information
+the web app shall allow the user to interact seamlessly with the blockchain, thanks to the back end integration with the institution / site associated Wallet.
+
+## Blockchain
+### Blockchain Type
+It's suggested, for the initial PoC phase, to set up a Proo-of-authority Blockchain (4 validator nodes), based on CosmosSDK/Tendermint frameworks
+
+### Wallet
+it's a standard Cosmos HD Wallet, including the account management developed by Commercio network project,based on Decentralised Identifier and COM DID Method
+
+### Supported Transactions
+An initial set of supported transactions includes:
+#### SetTrial
+create a record for the Ctrial, identified with the Institution / Site DID as Controller, and its DID as subject.
+the record includes all the referrals to the Ctrial sections, namely:
+- Investigator's brochure
+- Clinical Study protocol
+- Protocol Amendment (optional)
+- Informed Consents (optional)
+- Study Progress Report (optional)
+- Case Report Form (optional)
+All the referred documents are identified via DID fragment (for instance: <Ctrial DID>#iBrochure) and the respective Decentralised Storage URI.
+
+#### UpdateTrial
+Update an existing CTrial record.
+Can update any of the CTrial sections
+
+#### Sharetrial
+Share Trial with other subjects (DID), sharing the cryptographic material to access data or other access rights.
+
+### Decentralised Storage
+permanetly stores each version/snapshot of all the data submitted for a Ctrial record.
+URIs are referred in Ctrial record, at each completed section
+
+### CTrial Schema
+TBC
+
 # Resources
 
 * [Improving data transparency in clinical trials using blockchain smart contracts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357027.1/).
