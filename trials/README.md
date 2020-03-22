@@ -20,16 +20,16 @@ A user friendly UI can also help overburdened personnel do the data entry faster
 
 ## Editor Application
 * API + Website + Mobile App
-* Authentication/Authorization for write access, possibly per site
+* Authentication/Authorization for write access, possibly per study site
 * As a consideration inputing should be as fast as possible, with as little typing as possible, work well on mobile/tablet/desktop. Ideally Android/iOS/browser.
 
 ### Form for testing institution details
 * Institution Name
 * Address
-* Person(s) Responsible
+* Principal Investigator
 
 ### Form for patient characteristics
-* SiteSpecific Patient-ID (anonymous)
+* Patient-ID (this is translated to an anonymous patient ID)
 * Sex
 * DoB
 * Etnicity
@@ -43,12 +43,12 @@ A user friendly UI can also help overburdened personnel do the data entry faster
 * DateTime / Temperature
 * DateTime / Oxygen level
 * DateTime / BP
-* DateTime / ?
+* DateTime / ...
 * Covid19 Tests: DateTime / test-type / result
 * Covid19 Staging: DateTime / Staging
 * Covid19 Symptoms: DateTiem / Symptom
 * Non-Covid19 Symptoms: DateTime / Symptom
-* MedicalTreatement: DateTime / Treatment / dose
+* MedicalTreatement: DateTime / Treatment / Dose
 * Non-MedicalTreatement: DateTime / Treatment (EG oxygen/ventilation/...)
 
 ## Data Browser and Analytics
@@ -98,26 +98,39 @@ Like above but limited to "similar" patients given filter on characteristics/sta
 
 ## Write Side
 
-* Main responsible person per each site can assign editors/readers and edit site form
+* Principal investigator per each site can assign editors/readers and edit the study site form
 * Editors can fill patient forms
 
 ## Read Side
 
 * All editors can access all records of their own site
-* WHO can permission each site to see each other data
+* WHO can permission each study site to see each other data
 * WHO can permission other institutions to access data
 
 # Anonymization
 
-Data should be anonymous. The association of the patient ID to the patient should be kept at site level only.
+Data should be anonymous. The association of the patient ID to the patient should be kept at study site level only.
 
-E.G. we could generate a derived Patient ID using the real patient name/ID and use the signature of that, performed with the site private key, as derived patient ID associated with the stored medical records.
+E.G. we could generate a derived Anonymous Patient ID using the real patient name/ID and use the signature of that, performed with the as study site private key, as derived anonymous patient ID associated with the stored medical records.
 
-Incidentally we could include a QR/Bar/Text reader to obtain the real patient name/ID.
+Hence when filling the form, the real patient name/id is used at the study site, but only an anonymous ID is stored centrally.
+
+Incidentally we could include a QR/Bar/Text reader to obtain the real patient name/ID and/or other measures.
+
+## Study Site Storage
+
+Some informations are kept only at study-site level being encrypted with the study site public key.
+
+Information to be kept locally:
+
+* Patient Names/IDs since the Anonymous Patient ID can be derived from those
+* Patient Consents
+* Any patient detail or imaging or file that could compromise anonymity if disclosed.
+
 
 ## Patient Consent Workflow
 
-Even though it is likely that patient data is anonymized, it is possible that workflows could be needed to manage and store consent. Possibly also at site level. This would be a separate extension.
+Even though patient data is anonymized, it is possible that workflows could be needed to manage and store consent. Possibly also at site level. This would be a separate extension.
 
 See https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5676196.5/
 
