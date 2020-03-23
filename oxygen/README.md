@@ -62,5 +62,3 @@ The high PEEP requirement should rule out the bellow models. High PEEP means tha
 * [Principles of Mechanical Ventilation](https://youtu.be/-es5hs7d8pU) - YouTube videos.
 * [The Intelligent Ventilator Project: Application of Physiological Models in Decision Support](https://www.researchgate.net/publication/221450256_The_Intelligent_Ventilator_Project_Application_of_Physiological_Models_in_Decision_Support) - This paper describes progress in a model-based approach to building a decision support system for mechanical ventilation. It highlights that the process of building models promotes generation of ideas and describes three systems resulting from this process, i.e. for assessing pulmonary gas exchange, calculating arterial acid-base status; and optimizing mechanical ventilation. Each system is presented and its current status and impact reviewed.
 * [UK Ventilation Compliance Guide](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/456656/domestic_ventilation_compliance_guide_2010.pdf).
-
-# Oxygen Concentrators
